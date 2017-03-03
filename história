@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<meta charset=UTF-8>
+<html>
+<title>O Mal do Século XIV</title>
+<head>
+<body>
+<font face=verdana>
+<div align="center"> <h1> <font color="scarlet"> A Peste Negra </h1> </div> </font>
+
+<table width="723" align="center" border="0" background="barra.png">
+ <input type="button"  value="História" onclick="location.href='file:///C:/Users/rosi/Desktop/Site/historia.html' ">
+
+<input type="button" value="Doença" onclick="location.href='file:///C:/Users/rosi/Desktop/Site/doença.html' ">
+<input type="button" value="Curiosidades" onclick="location.href='file:///C:/Users/rosi/Desktop/Site/curiosidades.html' ">
+
+
+<table width="723" align="center" bgcolor="#F5F5F5"><td><font color="scarlet" 
+size="+2">A história</font>
+<div align="center"><img src="pestenegra5.jpg"></font></div>
+<font color="black" size="3"><br><br>
+Meados do século XIV foi uma época marcada por muita dor, sofrimento e mortes na Europa. A Peste Bubônica, que foi apelidada pelo povo de Peste Negra, matou cerca de um terço da população europeia. A doença mortal não escolhia vítimas. Reis, príncipes, senhores feudais, artesãos, servos, padres entre outros foram pegos pela peste.
+<p>Nos porões dos navios de comércio, que vinham do Oriente, entre os anos de 1346 e 1352, chegavam milhares de ratos. Estes roedores encontraram nas cidades europeias um ambiente favorável, pois estas possuíam condições precárias de higiene. O esgoto corria a céu aberto e o lixo acumulava-se nas ruas. Rapidamente a população de ratos aumentou significativamente. </p>
+
+
+Estes ratos estavam contaminados com a bactéria Pasteurella Pestis. E as pulgas destes roedores transmitiam a bactéria aos homens através da picada. Os ratos também morriam da doença e, quando isto acontecia, as pulgas passavam rapidamente para os humanos para obterem seu alimento, o sangue.
+
+
+</td>
+</table>
+
+</head>
+</body>
+</html>
