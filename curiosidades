@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<meta charset=UTF-8>
+<html>
+<title>O Mal do Século XIV</title>
+<head>
+<body>
+<font face=verdana>
+<div align="center"> <h1> <font color="scarlet"> A Peste Negra </h1> </div> </font>
+
+<table width="723" align="center" border="0" background="barra.png">
+ <input type="button"  value="História" onclick="location.href='file:///C:/Users/rosi/Desktop/Site/historia.html%20pagina.html' ">  
+
+<input type="button" value="Doença" onclick="location.href='file:///C:/Users/rosi/Desktop/Site/doença.html%20pagina.html' ">
+
+<input type="button" value="Curiosidades" onclick="location.href='file:///C:/Users/rosi/Desktop/Site/curiosidades.html%20pagina.html' ">
+
+
+<table width="723" align="center" bgcolor="#F5F5F5"><td><font color="scarlet" 
+size="+2">Curiosidades</font>
+
+<font color="black" size="3"><br><br>
+<p> <b>1.</b> A peste negra do século XIV surgiu na China. O curioso é que o rato transmissor da doença pode ter se originado na Índia. </p>
+
+<p> <b>2.</b> Ainda há controvérsia sobre como a peste chegou a Europa, mas muitos estudiosos acreditam que ela tenha surgido após um ataque de mongóis à península da Crimeia, mais precisamente ao porto de Kaffa. De lá, foi levada para a Europa Ocidental por mercadores genoveses e venezianos.</p>
+
+<p> <b>3.</b> Os sintomas da peste ocorrem poucos dias (pouquíssimos, na verdade) após a exposição à bactéria. Eles normalmente surgem de dois a cinco dias, mas há casos em que demoram 12 dias. A maior parte das mortes ocorre entre o terceiro e quinto dia após o surgimento dos sintomas.</p>
+
+<p> <b>4.</b> A peste é uma velha conhecida da humanidade. Há relatos sobre epidemias no antigo Egito, na Grécia, em Roma e no Império Bizantino. Há, inclusive, referências sobre ela na Bíblia.</p>
+
+<p> <b>5.</b> Um das últimas grandes epidemias de peste ocorreu na Índia e em partes da Ásia no final do século XIX e início do XX, matando cerca de 11 milhões de pessoas.</p>
+
+<p> <b>6.</b> O exército do Japão utilizou o bacilo da peste como arma biológica na Guerra da Manchúria.</p>
+<p> <b>7.</b> Os médicos utilizavam uma máscara pois acreditavam que a praga se espalhava pelo ar, através de uma "nuvem tóxica" que chamavam de Miasma.
+A máscara tem um formato de cabeça de ave e onde seria o bico era colocado vários tipos de especiarias, perfumes e pétalas de flores, como se fosse um filtro respirador, para impedir que o miasma entrasse na máscara. </p>
+</td>
+</table>
+
+</head>
+</body>
+</html>
